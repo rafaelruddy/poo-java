@@ -1,6 +1,6 @@
 package progOrientada2;
 
-public class ItemDeVenda extends Produto {
+public class ItemDeVenda {
 
 	private Produto produto;
 	private int quantidade;
